@@ -1,0 +1,19 @@
+#container{
+    text-align: center;
+    width: 750px;
+    height: 250px;
+    margin: auto;
+}
+
+#btn{
+    margin: 50px;
+    width: 200px;
+    height: 80px;
+    background-color: rgb(20, 73, 220);
+    color: black;
+
+}
+#out{
+    margin: 27px auto;
+    font-size: 30px;
+}
